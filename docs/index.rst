@@ -1,5 +1,5 @@
 ================
-sphinx-extension
+sphinx-keywords
 ================
 
 Hello, world!

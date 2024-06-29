@@ -1,7 +1,7 @@
 import logging
 
 
-log_id = 'sphinx-extension'
+log_id = 'sphinx-keywords'
 logger = logging.getLogger(log_id)
 handler = logging.FileHandler(f'{log_id}.log')
 logger.addHandler(handler)

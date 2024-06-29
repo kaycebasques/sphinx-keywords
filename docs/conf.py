@@ -1,9 +1,9 @@
-project = 'sphinx-extension'
+project = 'sphinx-keywords'
 copyright = '<YEAR>, <NAME>'
 author = '<NAME>'
 release = '0.0.1'
 
-extensions = ['sphinx-extension']
+extensions = ['sphinx-keywords']
 
 templates_path = ['_templates']
 exclude_patterns = [
